@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+    <item android:title="DRIVER MANAGEMENT COMPANY">
+        <menu>
+
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_home_black_24dp"
+            android:title="HOME" />
+        </menu>
+    </item>
+
+
+    <item android:title="ABOUT DRIVERS">
+        <menu>
+
+
+        <item
+            android:id="@+id/nav_driver"
+            android:icon="@drawable/ic_drive_eta_black_24dp"
+            android:title="DRIVER" />
+        </menu>
+    </item>
+    <item android:title="ABOUT CLIENTS">
+        <menu>
+            <item
+                android:id="@+id/nav_client"
+                android:icon="@drawable/ic_person_pin_black_24dp"
+                android:title="CLIENT" />
+        </menu>
+    </item>
+    <item android:title="FEEDBACK">
+        <menu>
+
+
+            <item
+                android:id="@+id/feedback"
+                android:icon="@drawable/ic_feedback_black_24dp"
+                android:title="FEEDBACK" />
+        </menu>
+    </item>
+</menu>
+

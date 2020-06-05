@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">DriverOnDemandApp</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">LOGOUT</string>
+    <string name="title_activity_login">Login</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="title_activity_client">ClientActivity</string>
+    <string name="title_home">ADD CLIENT</string>
+    <string name="title_dashboard">VIEW CLIENT</string>
+
+
+</resources>

@@ -1,0 +1,203 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:orientation="vertical"
+    android:background="@mipmap/d12"
+   >
+
+    <TableLayout
+
+        android:layout_width="wrap_content"
+        android:layout_height="369dp"
+        android:layout_gravity="center"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="120dp"
+        android:layout_marginRight="20dp"
+        >
+
+        <TableRow>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="DriverId"
+                android:textColor="#050000"
+                android:textSize="20dp"
+                android:textStyle="bold" />
+
+            <EditText
+                android:id="@+id/driverid"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+
+                android:hint="Write driver id here."
+                android:textColor="#040000"
+                android:textColorHint="#FAF8F8"
+                android:textSize="20dp"
+                android:textStyle="bold" />
+        </TableRow>
+
+        <TableRow>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Name"
+                android:textColor="#050000"
+                android:textSize="20dp"
+                android:textStyle="bold" />
+
+            <EditText
+                android:id="@+id/drivername"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:hint="Write name here."
+                android:textColor="#050000"
+                android:textColorHint="#FAF8F8"
+                android:textSize="20dp"
+                android:textStyle="bold" />
+        </TableRow>
+
+        <TableRow>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Email"
+                android:textColor="#050000"
+                android:textSize="20dp"
+                android:textStyle="bold" />
+
+            <EditText
+                android:id="@+id/drivermail"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:hint="Write email here."
+                android:textColor="#050000"
+                android:textColorHint="#FAF8F8"
+                android:textSize="20dp"
+                android:textStyle="bold" />
+        </TableRow>
+
+        <TableRow>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Phone no"
+                android:textColor="#050000"
+                android:textSize="20dp"
+                android:textStyle="bold" />
+
+            <EditText
+                android:id="@+id/driverphone"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:hint="Write phone no. here"
+                android:inputType="number"
+                android:textColor="#050000"
+                android:textColorHint="#FAF8F8"
+                android:textSize="20dp"
+                android:textStyle="bold" />
+        </TableRow>
+
+        <TableRow>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Age"
+                android:textColor="#050000"
+                android:textSize="20dp"
+                android:textStyle="bold" />
+
+            <EditText
+                android:id="@+id/driverage"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:hint="Write age here."
+                android:textColor="#050000"
+                android:textColorHint="#FAF8F8"
+                android:textSize="20dp"
+                android:textStyle="bold"
+                android:inputType="number"/>
+        </TableRow>
+
+        <TableRow>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Gender"
+                android:textColor="#050000"
+                android:textSize="20dp"
+                android:textStyle="bold" />
+
+            <RadioGroup
+                android:id="@+id/rdgender"
+                android:orientation="horizontal">
+
+                <RadioButton
+                    android:id="@+id/rdmale"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Male"
+                    android:textColor="#050000"
+                    android:textSize="20dp"
+                    android:textStyle="bold" />
+
+                <RadioButton
+                    android:id="@+id/rdfemale"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Female"
+                    android:textColor="#050000"
+                    android:textSize="20dp"
+                    android:textStyle="bold" />
+            </RadioGroup>
+        </TableRow>
+
+        <TableRow>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Address"
+                android:textColor="#050000"
+                android:textSize="20dp"
+                android:textStyle="bold" />
+
+            <EditText
+                android:id="@+id/driveraddress"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:hint="Write address here."
+                android:textColor="#050000"
+                android:textColorHint="#FAF8F8"
+                android:textSize="20dp"
+                android:textStyle="bold" />
+        </TableRow>
+
+        <TableRow>
+
+            <Button
+                android:id="@+id/btnadd"
+                android:layout_width="124dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_span="2"
+                android:background="#000407"
+                android:text="Add"
+                android:textColor="#F5F7FA"
+                android:textSize="30dp"
+                android:textStyle="bold" />
+
+        </TableRow>
+
+
+    </TableLayout>
+
+</LinearLayout>

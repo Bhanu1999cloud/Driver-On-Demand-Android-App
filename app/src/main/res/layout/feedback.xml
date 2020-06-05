@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@mipmap/d21">
+
+    <TableLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="center"
+
+        android:layout_marginTop="40dp">
+
+        <TableRow>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Feedback id"
+                android:textStyle="bold"
+                android:textSize="20dp"
+                android:textColor="#050505"
+                android:layout_gravity="center"/>
+
+            <EditText
+                android:id="@+id/txtfeed"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:hint="Enter feedback id here"
+                android:textStyle="bold"
+                android:textSize="20dp"
+                android:textColor="#050505"
+                android:textColorHint="#F8F9FA"
+              />
+        </TableRow>
+        <TableRow
+            android:layout_marginTop="15dp">
+
+            <TextView
+                android:textColor="#050505"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Driver id"
+                android:textStyle="bold"
+                android:textSize="20dp"/>
+
+
+            <EditText android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/did"
+                android:textStyle="bold"
+                android:textSize="20dp"
+                android:textColor="#050505"
+                android:hint="Enter driver id here"
+                android:textColorHint="#F8F9FA"/>
+        </TableRow>
+        <TableRow
+            android:layout_marginTop="15dp">
+            <TextView
+                android:textColor="#050505"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Client id"
+                android:textStyle="bold"
+                android:textSize="20dp"/>
+
+
+            <EditText android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/cid"
+                android:textStyle="bold"
+                android:textSize="20dp"
+                android:hint="Enter client id here"
+                android:textColor="#050505"
+                android:textColorHint="#F8F9FA"/>
+
+        </TableRow>
+
+        <TableRow
+            android:layout_marginTop="15dp">
+            <TextView
+                android:textColor="#050505"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Text"
+                android:textStyle="bold"
+                android:textSize="20dp"/>
+
+            <EditText
+
+                android:id="@+id/txtexp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:hint="We would love to know your experience!"
+                android:textColorHint="#F8F9FA"
+                android:textStyle="bold"
+                android:textSize="20dp"
+                android:textColor="#050505"/>
+        </TableRow>
+
+            <TextView
+                android:textColor="#021A77"
+                android:layout_height="wrap_content"
+                android:layout_width="wrap_content"
+                android:text="Rating"
+                android:textStyle="bold"
+                android:textSize="40sp"
+                android:layout_gravity="center"
+                android:textAlignment="center"/>
+        <com.hsalf.smilerating.SmileRating
+
+            android:id="@+id/smile_rating"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+          app:textSelectionColor="#050505"  />
+
+        <TextView android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/reaction"
+            android:layout_gravity="center"
+            android:layout_marginLeft="50dp"
+            android:layout_marginRight="50dp"
+            android:textAlignment="center"  android:textColor="#090909"
+          android:textSize="20dp"/>
+        <Button
+            android:id="@+id/btnsubmit"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="Submit"
+            android:background="#080809"
+            android:textColor="#F6F7F8"
+            android:textStyle="bold"
+            android:textSize="20dp"/>
+
+    </TableLayout>
+</LinearLayout>

@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".RequestDriver"
+    android:background="@mipmap/p2">
+
+    <TableLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="140dp"
+
+
+        android:layout_marginLeft="30dp"
+        android:layout_marginRight="30dp"
+
+     >
+
+        <TableRow>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="CLIENT ID"
+                android:textStyle="bold"
+                android:textSize="20dp"
+                android:textColor="#020202"
+
+                android:textAlignment="center"
+                android:layout_gravity="center"/>
+
+            <EditText
+                android:id="@+id/clid"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAlignment="center"
+                android:layout_gravity="center"
+                android:textColor="#020202"
+                android:textStyle="bold"
+                android:textSize="20dp" />
+
+        </TableRow>
+
+        <TableRow>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Date"
+                android:textStyle="bold"
+                android:textSize="20dp"
+                android:textColor="#020202"
+
+                android:textAlignment="center"
+                android:layout_gravity="center"/>
+
+            <EditText
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/date"
+                android:focusable="false"
+                android:textAlignment="center"
+                android:layout_gravity="center"
+                android:textColor="#020202"
+                android:textStyle="bold"
+                android:textSize="20dp"/>
+
+        </TableRow>
+
+        <TableRow>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="FromTime"
+                android:textStyle="bold"
+                android:textSize="20dp"
+                android:textColor="#020202"
+
+                android:textAlignment="center"
+                android:layout_gravity="center"/>
+
+         <EditText android:layout_width="wrap_content"
+             android:layout_height="wrap_content"
+             android:id="@+id/from"
+             android:focusable="false"
+             android:textAlignment="center"
+             android:layout_gravity="center"
+             android:textColor="#020202"
+             android:textStyle="bold"
+             android:textSize="20dp"/>
+
+        </TableRow>
+
+        <TableRow>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="ToTime"
+                android:textStyle="bold"
+                android:textSize="20dp"
+                android:textColor="#020202"
+
+                android:textAlignment="center"
+                android:layout_gravity="center"/>
+
+          <EditText android:layout_width="wrap_content"
+              android:layout_height="wrap_content"
+              android:id="@+id/to"
+              android:focusable="false"
+              android:textAlignment="center"
+              android:layout_gravity="center"
+              android:textColor="#020202"
+              android:textStyle="bold"
+              android:textSize="20dp"/>
+        </TableRow>
+
+
+
+            <Button
+                android:id="@+id/btnsubmit"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+               android:layout_gravity="center"
+                android:layout_marginTop="30dp"
+              android:background="#F30614"
+                android:text="Submit"
+                android:textSize="20dp"
+                android:textStyle="bold"
+                android:textColor="#FEFFFF"
+
+                />
+
+
+    </TableLayout>
+
+
+</LinearLayout>

@@ -1,0 +1,112 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.driverondemandapp"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="15"
+8-->D:\android\DriverOnDemandApp-20200529T145247Z-001\DriverOnDemandApp\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="29" />
+9-->D:\android\DriverOnDemandApp-20200529T145247Z-001\DriverOnDemandApp\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.READ_SMS" />
+11-->D:\android\DriverOnDemandApp-20200529T145247Z-001\DriverOnDemandApp\app\src\main\AndroidManifest.xml:4:1-62
+11-->D:\android\DriverOnDemandApp-20200529T145247Z-001\DriverOnDemandApp\app\src\main\AndroidManifest.xml:4:18-60
+12    <uses-permission android:name="android.permission.RECEIVE_SMS" />
+12-->D:\android\DriverOnDemandApp-20200529T145247Z-001\DriverOnDemandApp\app\src\main\AndroidManifest.xml:5:5-69
+12-->D:\android\DriverOnDemandApp-20200529T145247Z-001\DriverOnDemandApp\app\src\main\AndroidManifest.xml:5:22-67
+13    <uses-permission android:name="android.permission.READ_CONTACTS" />
+13-->D:\android\DriverOnDemandApp-20200529T145247Z-001\DriverOnDemandApp\app\src\main\AndroidManifest.xml:6:5-71
+13-->D:\android\DriverOnDemandApp-20200529T145247Z-001\DriverOnDemandApp\app\src\main\AndroidManifest.xml:6:22-69
+14    <uses-permission android:name="android.permission.CALL_PHONE" />
+14-->D:\android\DriverOnDemandApp-20200529T145247Z-001\DriverOnDemandApp\app\src\main\AndroidManifest.xml:7:5-69
+14-->D:\android\DriverOnDemandApp-20200529T145247Z-001\DriverOnDemandApp\app\src\main\AndroidManifest.xml:7:22-66
+15    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+15-->D:\android\DriverOnDemandApp-20200529T145247Z-001\DriverOnDemandApp\app\src\main\AndroidManifest.xml:8:5-80
+15-->D:\android\DriverOnDemandApp-20200529T145247Z-001\DriverOnDemandApp\app\src\main\AndroidManifest.xml:8:22-77
+16
+17    <application
+17-->D:\android\DriverOnDemandApp-20200529T145247Z-001\DriverOnDemandApp\app\src\main\AndroidManifest.xml:10:5-45:19
+18        android:allowBackup="true"
+18-->D:\android\DriverOnDemandApp-20200529T145247Z-001\DriverOnDemandApp\app\src\main\AndroidManifest.xml:11:9-35
+19        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+19-->[androidx.core:core:1.0.1] C:\Users\bisht\.gradle\caches\transforms-2\files-2.1\032360533aed7f4773dde0d69318c0bd\core-1.0.1\AndroidManifest.xml:22:18-86
+20        android:debuggable="true"
+21        android:icon="@mipmap/bhanu"
+21-->D:\android\DriverOnDemandApp-20200529T145247Z-001\DriverOnDemandApp\app\src\main\AndroidManifest.xml:12:9-37
+22        android:label="@string/app_name"
+22-->D:\android\DriverOnDemandApp-20200529T145247Z-001\DriverOnDemandApp\app\src\main\AndroidManifest.xml:13:9-41
+23        android:roundIcon="@mipmap/bhanu"
+23-->D:\android\DriverOnDemandApp-20200529T145247Z-001\DriverOnDemandApp\app\src\main\AndroidManifest.xml:14:9-42
+24        android:supportsRtl="true"
+24-->D:\android\DriverOnDemandApp-20200529T145247Z-001\DriverOnDemandApp\app\src\main\AndroidManifest.xml:15:9-35
+25        android:testOnly="true"
+26        android:theme="@style/AppTheme" >
+26-->D:\android\DriverOnDemandApp-20200529T145247Z-001\DriverOnDemandApp\app\src\main\AndroidManifest.xml:16:9-40
+27        <activity android:name="com.example.driverondemandapp.Welcome" >
+27-->D:\android\DriverOnDemandApp-20200529T145247Z-001\DriverOnDemandApp\app\src\main\AndroidManifest.xml:17:9-23:20
+27-->D:\android\DriverOnDemandApp-20200529T145247Z-001\DriverOnDemandApp\app\src\main\AndroidManifest.xml:17:19-42
+28            <intent-filter>
+28-->D:\android\DriverOnDemandApp-20200529T145247Z-001\DriverOnDemandApp\app\src\main\AndroidManifest.xml:18:13-22:29
+29                <action android:name="android.intent.action.MAIN" />
+29-->D:\android\DriverOnDemandApp-20200529T145247Z-001\DriverOnDemandApp\app\src\main\AndroidManifest.xml:19:17-69
+29-->D:\android\DriverOnDemandApp-20200529T145247Z-001\DriverOnDemandApp\app\src\main\AndroidManifest.xml:19:25-66
+30
+31                <category android:name="android.intent.category.LAUNCHER" />
+31-->D:\android\DriverOnDemandApp-20200529T145247Z-001\DriverOnDemandApp\app\src\main\AndroidManifest.xml:21:17-77
+31-->D:\android\DriverOnDemandApp-20200529T145247Z-001\DriverOnDemandApp\app\src\main\AndroidManifest.xml:21:27-74
+32            </intent-filter>
+33        </activity>
+34        <activity android:name="com.example.driverondemandapp.AssignDriver" />
+34-->D:\android\DriverOnDemandApp-20200529T145247Z-001\DriverOnDemandApp\app\src\main\AndroidManifest.xml:24:9-50
+34-->D:\android\DriverOnDemandApp-20200529T145247Z-001\DriverOnDemandApp\app\src\main\AndroidManifest.xml:24:19-47
+35        <activity android:name="com.example.driverondemandapp.RequestDriver" >
+35-->D:\android\DriverOnDemandApp-20200529T145247Z-001\DriverOnDemandApp\app\src\main\AndroidManifest.xml:25:9-26:20
+35-->D:\android\DriverOnDemandApp-20200529T145247Z-001\DriverOnDemandApp\app\src\main\AndroidManifest.xml:25:19-48
+36        </activity>
+37        <activity android:name="com.example.driverondemandapp.ShowDriverDetails" />
+37-->D:\android\DriverOnDemandApp-20200529T145247Z-001\DriverOnDemandApp\app\src\main\AndroidManifest.xml:27:9-55
+37-->D:\android\DriverOnDemandApp-20200529T145247Z-001\DriverOnDemandApp\app\src\main\AndroidManifest.xml:27:19-52
+38        <activity android:name="com.example.driverondemandapp.ShowClientDetails" >
+38-->D:\android\DriverOnDemandApp-20200529T145247Z-001\DriverOnDemandApp\app\src\main\AndroidManifest.xml:28:9-29:20
+38-->D:\android\DriverOnDemandApp-20200529T145247Z-001\DriverOnDemandApp\app\src\main\AndroidManifest.xml:28:19-52
+39        </activity>
+40        <activity
+40-->D:\android\DriverOnDemandApp-20200529T145247Z-001\DriverOnDemandApp\app\src\main\AndroidManifest.xml:30:9-32:61
+41            android:name="com.example.driverondemandapp.ClientActivity"
+41-->D:\android\DriverOnDemandApp-20200529T145247Z-001\DriverOnDemandApp\app\src\main\AndroidManifest.xml:31:13-43
+42            android:label="@string/title_activity_client" />
+42-->D:\android\DriverOnDemandApp-20200529T145247Z-001\DriverOnDemandApp\app\src\main\AndroidManifest.xml:32:13-58
+43        <activity
+43-->D:\android\DriverOnDemandApp-20200529T145247Z-001\DriverOnDemandApp\app\src\main\AndroidManifest.xml:33:9-37:19
+44            android:name="com.example.driverondemandapp.Login"
+44-->D:\android\DriverOnDemandApp-20200529T145247Z-001\DriverOnDemandApp\app\src\main\AndroidManifest.xml:34:13-34
+45            android:label="@string/title_activity_login"
+45-->D:\android\DriverOnDemandApp-20200529T145247Z-001\DriverOnDemandApp\app\src\main\AndroidManifest.xml:35:13-57
+46            android:theme="@style/AppTheme.NoActionBar" >
+46-->D:\android\DriverOnDemandApp-20200529T145247Z-001\DriverOnDemandApp\app\src\main\AndroidManifest.xml:36:13-56
+47        </activity>
+48        <activity
+48-->D:\android\DriverOnDemandApp-20200529T145247Z-001\DriverOnDemandApp\app\src\main\AndroidManifest.xml:38:9-44:20
+49            android:name="com.example.driverondemandapp.MainActivity"
+49-->D:\android\DriverOnDemandApp-20200529T145247Z-001\DriverOnDemandApp\app\src\main\AndroidManifest.xml:39:13-41
+50            android:label="@string/app_name"
+50-->D:\android\DriverOnDemandApp-20200529T145247Z-001\DriverOnDemandApp\app\src\main\AndroidManifest.xml:40:13-45
+51            android:theme="@style/AppTheme.NoActionBar" >
+51-->D:\android\DriverOnDemandApp-20200529T145247Z-001\DriverOnDemandApp\app\src\main\AndroidManifest.xml:41:13-56
+52        </activity>
+53
+54        <provider
+54-->[androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\bisht\.gradle\caches\transforms-2\files-2.1\e953a6c6aa473293c3a94459e549ecaa\jetified-lifecycle-process-2.0.0\AndroidManifest.xml:23:9-27:43
+55            android:name="androidx.lifecycle.ProcessLifecycleOwnerInitializer"
+55-->[androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\bisht\.gradle\caches\transforms-2\files-2.1\e953a6c6aa473293c3a94459e549ecaa\jetified-lifecycle-process-2.0.0\AndroidManifest.xml:24:13-79
+56            android:authorities="com.example.driverondemandapp.lifecycle-process"
+56-->[androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\bisht\.gradle\caches\transforms-2\files-2.1\e953a6c6aa473293c3a94459e549ecaa\jetified-lifecycle-process-2.0.0\AndroidManifest.xml:25:13-69
+57            android:exported="false"
+57-->[androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\bisht\.gradle\caches\transforms-2\files-2.1\e953a6c6aa473293c3a94459e549ecaa\jetified-lifecycle-process-2.0.0\AndroidManifest.xml:26:13-37
+58            android:multiprocess="true" />
+58-->[androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\bisht\.gradle\caches\transforms-2\files-2.1\e953a6c6aa473293c3a94459e549ecaa\jetified-lifecycle-process-2.0.0\AndroidManifest.xml:27:13-40
+59    </application>
+60
+61</manifest>

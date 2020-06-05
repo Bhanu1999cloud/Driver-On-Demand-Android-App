@@ -1,0 +1,143 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ShowDriverDetails"
+    android:orientation="vertical"
+    android:background="@mipmap/p11">
+    <TextView
+        android:id="@+id/drid"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:textSize="25dp"
+        android:textColor="#040404"
+        android:layout_gravity="center"
+        android:layout_marginTop="30dp" />
+    <TextView
+        android:id="@+id/name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="25dp"
+        android:textColor="#040404"
+        android:layout_gravity="center"
+        android:layout_marginTop="20dp"
+        />
+    <EditText
+        android:id="@+id/email"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="25dp"
+        android:textColor="#040404"
+        android:layout_gravity="center"
+        android:layout_marginTop="20dp"/>
+    <EditText
+        android:id="@+id/phone"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="25dp"
+        android:textColor="#040404"
+        android:layout_gravity="center"
+        android:layout_marginTop="20dp" />
+    <EditText
+        android:id="@+id/age"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="number"
+        android:textSize="25dp"
+        android:textColor="#040404"
+        android:layout_gravity="center"
+        android:layout_marginTop="20dp" />
+
+    <TextView
+        android:id="@+id/gender"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="25dp"
+        android:textColor="#040404"
+        android:layout_gravity="center"
+        android:layout_marginTop="20dp" />
+    <EditText
+        android:id="@+id/address"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="25dp"
+        android:textColor="#040404"
+        android:layout_gravity="center"
+        android:layout_marginTop="20dp" />
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginTop="30dp"
+        android:layout_gravity="center">
+        <com.google.android.material.floatingactionbutton.FloatingActionButton
+            android:id="@+id/edit"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+
+            android:clickable="true"
+
+            app:srcCompat="@mipmap/review"
+            android:layout_marginLeft="30dp"
+            android:backgroundTint="#070707"/>
+        <com.google.android.material.floatingactionbutton.FloatingActionButton
+            android:id="@+id/update"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:backgroundTint="#090909"
+            android:clickable="true"
+            app:srcCompat="@mipmap/rotate"
+            android:layout_marginLeft="30dp"
+
+            />
+        <com.google.android.material.floatingactionbutton.FloatingActionButton
+            android:id="@+id/delete"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:backgroundTint="#090909"
+            android:clickable="true"
+            app:srcCompat="@mipmap/unfollow"
+
+
+            android:layout_marginLeft="30dp"
+
+            />
+
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Edit"
+            android:textStyle="bold"
+            android:textSize="20dp"
+            android:textColor="#070707"
+            android:layout_marginLeft="130dp"
+            android:id="@+id/txtedit"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="UPDATE"
+            android:textStyle="bold"
+            android:layout_marginLeft="130dp"
+            android:textSize="20dp"
+            android:textColor="#070707"
+            android:id="@+id/txtupdate"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="DELETE"
+            android:textStyle="bold"
+            android:layout_marginLeft="15dp"
+            android:textSize="20dp"
+            android:textColor="#070707"/>
+    </LinearLayout>
+
+
+</LinearLayout>

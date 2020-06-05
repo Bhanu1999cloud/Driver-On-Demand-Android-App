@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<translate xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    tools:ignore="MissingDefaultResource"
+    android:fromYDelta="10"
+    android:toYDelta="200"
+    android:repeatMode="reverse"
+    android:repeatCount="infinite"
+    android:duration="2000">
+
+</translate>

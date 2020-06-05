@@ -1,0 +1,582 @@
+[
+    {
+        "merged": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_d17.jpg.flat",
+        "source": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\d17.jpg"
+    },
+    {
+        "merged": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_icon_foreground.png.flat",
+        "source": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\icon_foreground.png"
+    },
+    {
+        "merged": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_unfollow.png.flat",
+        "source": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\src\\main\\res\\mipmap-xhdpi\\unfollow.png"
+    },
+    {
+        "merged": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_review.png.flat",
+        "source": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\src\\main\\res\\mipmap-xhdpi\\review.png"
+    },
+    {
+        "merged": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_b6.jpeg.flat",
+        "source": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\src\\main\\res\\mipmap-mdpi\\b6.jpeg"
+    },
+    {
+        "merged": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_login2.xml.flat",
+        "source": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\src\\main\\res\\layout\\fragment_login2.xml"
+    },
+    {
+        "merged": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_action_add.png.flat",
+        "source": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\src\\main\\res\\drawable-mdpi\\ic_action_add.png"
+    },
+    {
+        "merged": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_d1.jpg.flat",
+        "source": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\src\\main\\res\\mipmap-mdpi\\d1.jpg"
+    },
+    {
+        "merged": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_icon_round.png.flat",
+        "source": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\src\\main\\res\\mipmap-mdpi\\icon_round.png"
+    },
+    {
+        "merged": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_welcome.xml.flat",
+        "source": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\src\\main\\res\\layout\\activity_welcome.xml"
+    },
+    {
+        "merged": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_bh1.jpg.flat",
+        "source": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\src\\main\\res\\mipmap-mdpi\\bh1.jpg"
+    },
+    {
+        "merged": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_icon_round.png.flat",
+        "source": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\src\\main\\res\\mipmap-hdpi\\icon_round.png"
+    },
+    {
+        "merged": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\build\\intermediates\\res\\merged\\debug\\anim_move.xml.flat",
+        "source": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\src\\main\\res\\anim\\move.xml"
+    },
+    {
+        "merged": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_alert.png.flat",
+        "source": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\src\\main\\res\\drawable-v21\\alert.png"
+    },
+    {
+        "merged": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_side_nav_bar.xml.flat",
+        "source": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\src\\main\\res\\drawable\\side_nav_bar.xml"
+    },
+    {
+        "merged": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_rotate.png.flat",
+        "source": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\src\\main\\res\\drawable-v21\\rotate.png"
+    },
+    {
+        "merged": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_d4.jpg.flat",
+        "source": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\src\\main\\res\\drawable-v24\\d4.jpg"
+    },
+    {
+        "merged": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_action_add.png.flat",
+        "source": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_add.png"
+    },
+    {
+        "merged": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_login.xml.flat",
+        "source": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_request_driver.xml.flat",
+        "source": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\src\\main\\res\\layout\\activity_request_driver.xml"
+    },
+    {
+        "merged": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_action_view.png.flat",
+        "source": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_view.png"
+    },
+    {
+        "merged": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi_ic_add.xml.flat",
+        "source": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\src\\main\\res\\drawable-anydpi\\ic_add.xml"
+    },
+    {
+        "merged": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_group_add_black_24dp.xml.flat",
+        "source": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\src\\main\\res\\drawable\\ic_group_add_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_d9.jpg.flat",
+        "source": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\d9.jpg"
+    },
+    {
+        "merged": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_b3.jpeg.flat",
+        "source": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\src\\main\\res\\mipmap-xhdpi\\b3.jpeg"
+    },
+    {
+        "merged": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_b5.jpeg.flat",
+        "source": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\src\\main\\res\\drawable-mdpi\\b5.jpeg"
+    },
+    {
+        "merged": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_add.png.flat",
+        "source": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\src\\main\\res\\drawable-hdpi\\ic_add.png"
+    },
+    {
+        "merged": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi_ic_action_add.xml.flat",
+        "source": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\src\\main\\res\\drawable-anydpi\\ic_action_add.xml"
+    },
+    {
+        "merged": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_add.png.flat",
+        "source": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\src\\main\\res\\drawable-xhdpi\\ic_add.png"
+    },
+    {
+        "merged": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_homefragment.xml.flat",
+        "source": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\src\\main\\res\\layout\\homefragment.xml"
+    },
+    {
+        "merged": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_edit.png.flat",
+        "source": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\edit.png"
+    },
+    {
+        "merged": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_icon.png.flat",
+        "source": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\src\\main\\res\\mipmap-mdpi\\icon.png"
+    },
+    {
+        "merged": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_car.png.flat",
+        "source": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\src\\main\\res\\drawable-xxhdpi\\car.png"
+    },
+    {
+        "merged": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_bb.jpg.flat",
+        "source": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\src\\main\\res\\mipmap-mdpi\\bb.jpg"
+    },
+    {
+        "merged": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_d6.jpg.flat",
+        "source": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\d6.jpg"
+    },
+    {
+        "merged": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_feedback_black_24dp.xml.flat",
+        "source": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\src\\main\\res\\drawable\\ic_feedback_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_app_bar_main.xml.flat",
+        "source": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\src\\main\\res\\layout\\app_bar_main.xml"
+    },
+    {
+        "merged": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_bhanu.png.flat",
+        "source": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\src\\main\\res\\mipmap-hdpi\\bhanu.png"
+    },
+    {
+        "merged": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_icon.png.flat",
+        "source": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\src\\main\\res\\mipmap-hdpi\\icon.png"
+    },
+    {
+        "merged": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\build\\intermediates\\res\\merged\\debug\\menu_bottom_nav_menu2.xml.flat",
+        "source": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\src\\main\\res\\menu\\bottom_nav_menu2.xml"
+    },
+    {
+        "merged": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_icon.png.flat",
+        "source": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\src\\main\\res\\mipmap-xhdpi\\icon.png"
+    },
+    {
+        "merged": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_directions_car_black_24dp.xml.flat",
+        "source": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\src\\main\\res\\drawable\\ic_directions_car_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_action_add.png.flat",
+        "source": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\src\\main\\res\\drawable-hdpi\\ic_action_add.png"
+    },
+    {
+        "merged": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_p11.jpg.flat",
+        "source": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\p11.jpg"
+    },
+    {
+        "merged": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_icon_foreground.png.flat",
+        "source": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\src\\main\\res\\mipmap-xxhdpi\\icon_foreground.png"
+    },
+    {
+        "merged": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\build\\intermediates\\res\\merged\\debug\\menu_bottom_nav_menu.xml.flat",
+        "source": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\src\\main\\res\\menu\\bottom_nav_menu.xml"
+    },
+    {
+        "merged": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_callclient.xml.flat",
+        "source": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\src\\main\\res\\layout\\callclient.xml"
+    },
+    {
+        "merged": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_car.png.flat",
+        "source": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\src\\main\\res\\drawable-mdpi\\car.png"
+    },
+    {
+        "merged": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_icon_round.png.flat",
+        "source": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\src\\main\\res\\mipmap-xhdpi\\icon_round.png"
+    },
+    {
+        "merged": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_action_view.png.flat",
+        "source": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_view.png"
+    },
+    {
+        "merged": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_show_driver_details.xml.flat",
+        "source": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\src\\main\\res\\layout\\activity_show_driver_details.xml"
+    },
+    {
+        "merged": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_bhanu.png.flat",
+        "source": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\src\\main\\res\\mipmap-mdpi\\bhanu.png"
+    },
+    {
+        "merged": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_driver.xml.flat",
+        "source": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\src\\main\\res\\layout\\activity_driver.xml"
+    },
+    {
+        "merged": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_bhanu.png.flat",
+        "source": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\src\\main\\res\\drawable-xxhdpi\\ic_bhanu.png"
+    },
+    {
+        "merged": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_person_pin_black_24dp.xml.flat",
+        "source": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\src\\main\\res\\drawable\\ic_person_pin_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_d11.jpg.flat",
+        "source": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\d11.jpg"
+    },
+    {
+        "merged": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_rotate.png.flat",
+        "source": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\src\\main\\res\\mipmap-xhdpi\\rotate.png"
+    },
+    {
+        "merged": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_drive_eta_black_24dp.xml.flat",
+        "source": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\src\\main\\res\\drawable\\ic_drive_eta_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_p2.jpg.flat",
+        "source": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\p2.jpg"
+    },
+    {
+        "merged": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_adminloginfragment.xml.flat",
+        "source": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\src\\main\\res\\layout\\adminloginfragment.xml"
+    },
+    {
+        "merged": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_d21.jpg.flat",
+        "source": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\d21.jpg"
+    },
+    {
+        "merged": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_home_black_24dp.xml.flat",
+        "source": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\src\\main\\res\\drawable\\ic_home_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_assign_driver.xml.flat",
+        "source": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\src\\main\\res\\layout\\activity_assign_driver.xml"
+    },
+    {
+        "merged": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_pageview_black_24dp.xml.flat",
+        "source": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\src\\main\\res\\drawable\\ic_pageview_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_action_add.png.flat",
+        "source": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_add.png"
+    },
+    {
+        "merged": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_bh4.jpg.flat",
+        "source": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\src\\main\\res\\mipmap-mdpi\\bh4.jpg"
+    },
+    {
+        "merged": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_icon_round.png.flat",
+        "source": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\icon_round.png"
+    },
+    {
+        "merged": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_feedback.xml.flat",
+        "source": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\src\\main\\res\\layout\\feedback.xml"
+    },
+    {
+        "merged": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_d4.jpg.flat",
+        "source": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\d4.jpg"
+    },
+    {
+        "merged": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_action_view.png.flat",
+        "source": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\src\\main\\res\\drawable-mdpi\\ic_action_view.png"
+    },
+    {
+        "merged": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_car.png.flat",
+        "source": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\src\\main\\res\\drawable-xhdpi\\car.png"
+    },
+    {
+        "merged": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_call_black_24dp.xml.flat",
+        "source": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\src\\main\\res\\drawable\\ic_call_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_icon_foreground.png.flat",
+        "source": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\src\\main\\res\\mipmap-mdpi\\icon_foreground.png"
+    },
+    {
+        "merged": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_d14.jpg.flat",
+        "source": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\d14.jpg"
+    },
+    {
+        "merged": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_bh3.jpg.flat",
+        "source": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\src\\main\\res\\mipmap-mdpi\\bh3.jpg"
+    },
+    {
+        "merged": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_b8.jpeg.flat",
+        "source": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\src\\main\\res\\mipmap-mdpi\\b8.jpeg"
+    },
+    {
+        "merged": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_d5.jpg.flat",
+        "source": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\d5.jpg"
+    },
+    {
+        "merged": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\build\\intermediates\\res\\merged\\debug\\menu_main.xml.flat",
+        "source": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_adddriverfragment.xml.flat",
+        "source": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\src\\main\\res\\layout\\adddriverfragment.xml"
+    },
+    {
+        "merged": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_p12.jpg.flat",
+        "source": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\p12.jpg"
+    },
+    {
+        "merged": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_b6.jpeg.flat",
+        "source": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\src\\main\\res\\drawable-mdpi\\b6.jpeg"
+    },
+    {
+        "merged": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_content_main.xml.flat",
+        "source": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\src\\main\\res\\layout\\content_main.xml"
+    },
+    {
+        "merged": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_animation.xml.flat",
+        "source": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\src\\main\\res\\drawable-mdpi\\animation.xml"
+    },
+    {
+        "merged": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_login.xml.flat",
+        "source": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\src\\main\\res\\layout\\fragment_login.xml"
+    },
+    {
+        "merged": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi_ic_bhanu.xml.flat",
+        "source": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\src\\main\\res\\drawable-anydpi\\ic_bhanu.xml"
+    },
+    {
+        "merged": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_icon_foreground.png.flat",
+        "source": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\src\\main\\res\\mipmap-xhdpi\\icon_foreground.png"
+    },
+    {
+        "merged": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bb.xml.flat",
+        "source": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\src\\main\\res\\drawable\\bb.xml"
+    },
+    {
+        "merged": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_addclientfragement.xml.flat",
+        "source": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\src\\main\\res\\layout\\addclientfragement.xml"
+    },
+    {
+        "merged": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_d16.png.flat",
+        "source": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\d16.png"
+    },
+    {
+        "merged": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_add_a_photo_black_24dp.xml.flat",
+        "source": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\src\\main\\res\\drawable\\ic_add_a_photo_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_d13.jpg.flat",
+        "source": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\d13.jpg"
+    },
+    {
+        "merged": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_icon.png.flat",
+        "source": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\src\\main\\res\\mipmap-xxhdpi\\icon.png"
+    },
+    {
+        "merged": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_bhanu.png.flat",
+        "source": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\src\\main\\res\\drawable-xhdpi\\ic_bhanu.png"
+    },
+    {
+        "merged": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_trash.png.flat",
+        "source": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\trash.png"
+    },
+    {
+        "merged": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_add.png.flat",
+        "source": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\src\\main\\res\\drawable-mdpi\\ic_add.png"
+    },
+    {
+        "merged": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_icon_round.xml.flat",
+        "source": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\src\\main\\res\\mipmap-anydpi-v26\\icon_round.xml"
+    },
+    {
+        "merged": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_icon_round.png.flat",
+        "source": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\src\\main\\res\\mipmap-xxhdpi\\icon_round.png"
+    },
+    {
+        "merged": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_bh2.jpg.flat",
+        "source": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\src\\main\\res\\mipmap-mdpi\\bh2.jpg"
+    },
+    {
+        "merged": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_icon.png.flat",
+        "source": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\icon.png"
+    },
+    {
+        "merged": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\build\\intermediates\\res\\merged\\debug\\menu_activity_main_drawer.xml.flat",
+        "source": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\src\\main\\res\\menu\\activity_main_drawer.xml"
+    },
+    {
+        "merged": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_icon.xml.flat",
+        "source": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\src\\main\\res\\mipmap-anydpi-v26\\icon.xml"
+    },
+    {
+        "merged": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_d2.jpg.flat",
+        "source": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\src\\main\\res\\mipmap-mdpi\\d2.jpg"
+    },
+    {
+        "merged": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_icon_foreground.png.flat",
+        "source": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\src\\main\\res\\mipmap-hdpi\\icon_foreground.png"
+    },
+    {
+        "merged": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_d12.jpg.flat",
+        "source": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\d12.jpg"
+    },
+    {
+        "merged": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi_car.xml.flat",
+        "source": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\src\\main\\res\\drawable-anydpi\\car.xml"
+    },
+    {
+        "merged": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_b4.jpeg.flat",
+        "source": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\src\\main\\res\\mipmap-mdpi\\b4.jpeg"
+    },
+    {
+        "merged": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_bhanu.png.flat",
+        "source": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\src\\main\\res\\drawable-hdpi\\ic_bhanu.png"
+    },
+    {
+        "merged": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_b7.jpeg.flat",
+        "source": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\src\\main\\res\\mipmap-mdpi\\b7.jpeg"
+    },
+    {
+        "merged": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_nav_header_main.xml.flat",
+        "source": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\src\\main\\res\\layout\\nav_header_main.xml"
+    },
+    {
+        "merged": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_p10.jpg.flat",
+        "source": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\p10.jpg"
+    },
+    {
+        "merged": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_bhanu.png.flat",
+        "source": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\src\\main\\res\\drawable-mdpi\\ic_bhanu.png"
+    },
+    {
+        "merged": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_viewdriverfragment.xml.flat",
+        "source": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\src\\main\\res\\layout\\viewdriverfragment.xml"
+    },
+    {
+        "merged": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_bhanu.png.flat",
+        "source": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\src\\main\\res\\mipmap-xxhdpi\\bhanu.png"
+    },
+    {
+        "merged": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_d18.jpg.flat",
+        "source": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\d18.jpg"
+    },
+    {
+        "merged": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_update.png.flat",
+        "source": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\update.png"
+    },
+    {
+        "merged": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_car.png.flat",
+        "source": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\src\\main\\res\\drawable-hdpi\\car.png"
+    },
+    {
+        "merged": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_calldriver.xml.flat",
+        "source": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\src\\main\\res\\layout\\calldriver.xml"
+    },
+    {
+        "merged": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_show_client_details.xml.flat",
+        "source": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\src\\main\\res\\layout\\activity_show_client_details.xml"
+    },
+    {
+        "merged": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_add.png.flat",
+        "source": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\src\\main\\res\\drawable-xxhdpi\\ic_add.png"
+    },
+    {
+        "merged": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_bhanu.png.flat",
+        "source": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\src\\main\\res\\mipmap-xhdpi\\bhanu.png"
+    },
+    {
+        "merged": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_client.xml.flat",
+        "source": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\src\\main\\res\\layout\\activity_client.xml"
+    },
+    {
+        "merged": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_d15.jpg.flat",
+        "source": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\d15.jpg"
+    },
+    {
+        "merged": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_b2.jpeg.flat",
+        "source": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\src\\main\\res\\drawable-mdpi\\b2.jpeg"
+    },
+    {
+        "merged": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_viewclientfragement.xml.flat",
+        "source": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\src\\main\\res\\layout\\viewclientfragement.xml"
+    },
+    {
+        "merged": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_clientloginfragment.xml.flat",
+        "source": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\src\\main\\res\\layout\\clientloginfragment.xml"
+    },
+    {
+        "merged": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_bhanu.png.flat",
+        "source": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\bhanu.png"
+    },
+    {
+        "merged": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_action_view.png.flat",
+        "source": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\src\\main\\res\\drawable-hdpi\\ic_action_view.png"
+    },
+    {
+        "merged": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_unfollow.png.flat",
+        "source": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\src\\main\\res\\drawable-v21\\unfollow.png"
+    },
+    {
+        "merged": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi_ic_action_view.xml.flat",
+        "source": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\src\\main\\res\\drawable-anydpi\\ic_action_view.xml"
+    },
+    {
+        "merged": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_d7.jpg.flat",
+        "source": "D:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\d7.jpg"
+    }
+]

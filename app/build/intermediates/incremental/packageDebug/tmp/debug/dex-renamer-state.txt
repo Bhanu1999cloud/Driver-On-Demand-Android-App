@@ -1,0 +1,4 @@
+#Fri Jun 05 23:34:41 IST 2020
+base.0=D\:\\android\\DriverOnDemandApp-20200529T145247Z-001\\DriverOnDemandApp\\app\\build\\intermediates\\dex\\debug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

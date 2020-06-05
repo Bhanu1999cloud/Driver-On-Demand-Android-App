@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/navigation_addd"
+        android:icon="@drawable/ic_add"
+        android:title="ADD DRIVER" />
+
+    <item
+        android:id="@+id/navigation_viewd"
+        android:icon="@drawable/ic_action_view"
+        android:title="VIEW DRIVER" />
+    <item android:id="@+id/calld"
+        android:icon="@drawable/ic_call_black_24dp"
+        android:title="CALL DRIVER"></item>
+</menu>

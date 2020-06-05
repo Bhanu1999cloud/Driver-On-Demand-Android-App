@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/layout"
+    android:background="@drawable/animation"
+    >
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="HAVE"
+
+        android:layout_gravity="center"
+        android:layout_marginTop="80dp"
+        android:textColor="#F5F6F5"
+        android:textSize="60dp"
+       android:gravity="center"
+        android:textStyle="bold"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="A"
+
+        android:layout_gravity="center"
+        android:layout_marginTop="10dp"
+        android:textColor="#F6F8F5"
+        android:textSize="60dp"
+        android:gravity="center"
+        android:textStyle="bold"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="GREAT"
+
+        android:layout_gravity="center"
+        android:layout_marginTop="10dp"
+        android:textColor="#F5F8F3"
+        android:textSize="60dp"
+        android:gravity="center"
+        android:textStyle="bold"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="JOURNEY"
+
+        android:layout_gravity="center"
+        android:layout_marginTop="10dp"
+        android:textColor="#F7F8F6"
+        android:textSize="60dp"
+        android:gravity="center"
+        android:textStyle="bold"/>
+
+</LinearLayout>

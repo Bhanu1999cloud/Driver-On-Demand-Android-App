@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@mipmap/d2"
+    >
+<TableLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginLeft="30dp"
+    android:layout_marginRight="30dp"
+    >
+    <TableRow
+       >
+
+        <TextView
+            android:layout_width="86dp"
+           android:layout_gravity="center"
+            android:layout_span="2"
+            android:text="ADMIN LOGIN"
+            android:textAlignment="center"
+            android:textColor="#0B0B0A"
+            android:textSize="40sp"
+            android:textStyle="bold" />
+    </TableRow>
+    <TableRow
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="100dp"
+
+
+        >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+           android:textSize="25dp"
+            android:text="Id"
+            android:textColor="#040404"
+android:textAlignment="center"
+            android:layout_gravity="center"
+            android:textStyle="bold" />
+
+        <EditText
+            android:id="@+id/adminid"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="cursive"
+            android:hint="Enter Id"
+            android:textSize="25dp"
+            android:textColorHint="#4C4B4B"
+            android:textColor="#090909"
+android:layout_gravity="center"
+            android:textStyle="bold"
+            />
+
+
+    </TableRow>
+
+    <TableRow
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="40dp"
+
+
+        >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="25dp"
+            android:text="Password"
+            android:textColor="#040404"
+            android:textAlignment="center"
+            android:layout_gravity="center"
+
+            android:textStyle="bold" />
+
+        <EditText
+            android:id="@+id/adminpass"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:fontFamily="cursive"
+            android:layout_marginLeft="26dp"
+            android:hint="Enter Password"
+            android:password="true"
+            android:textColor="#040404"
+            android:textColorHint="#4C4B4B"
+            android:textSize="25dp"
+            android:textStyle="bold"
+
+            />
+
+
+    </TableRow>
+
+
+
+        <Button
+            android:id="@+id/btnsubmit"
+            android:layout_width="199dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+
+           android:layout_marginTop="30dp"
+            android:background="#0C0C0C"
+            android:fontFamily="sans-serif"
+            android:text="Submit"
+            android:textColor="#F7F2F3"
+            android:textSize="30dp"
+            android:textStyle="bold"
+
+            />
+
+</TableLayout>
+</LinearLayout>
